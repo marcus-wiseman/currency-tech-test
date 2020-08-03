@@ -1,4 +1,4 @@
-Currecny converter tech test
+Laravel + Vue.Js - Currecny converter tech test.
 
 Once setup, run "php artisan migrate --seed",
 this downloads and inserts the currecy conversion rates into the database.
