@@ -12,6 +12,6 @@ A new folder structure for the API has been added to accomidate api versioning.
 
 See api\v1.
 
-I didn't bother using https://gbp.fxexchangerate.com/rss.xml, as i already have the codes in the database, so i sourced from this.
+I didn't bother using https://gbp.fxexchangerate.com/rss.xml to source what rates are available to convert, as i already have the codes in the database, so i sourced from this.
 
 Currently only converts GBP to xxx, though with more data, its simple enouth to ehance the component.
